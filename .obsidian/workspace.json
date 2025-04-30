@@ -4,123 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "44f1b86c065b3cf3",
+        "id": "3dcc086a2edfbe8c",
         "type": "tabs",
         "children": [
           {
-            "id": "13e6f7d32993cd42",
+            "id": "2442572536e96b04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/1. Data Anomalies.md",
+                "file": "Data/A1. Query Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Data Anomalies"
+              "title": "A1. Query Engine"
             }
           },
           {
-            "id": "c3572b1e193034e5",
+            "id": "aadb64fcba4a8329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/2. Isolation Levels.md",
+                "file": "Data/A4. Rule-based optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Isolation Levels"
+              "title": "A4. Rule-based optimization"
             }
           },
           {
-            "id": "3ee8f1c4e5ea4b33",
+            "id": "e5861ea0d9c90a9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/3. Dirty Reads Non-Repeatable Reads.md",
+                "file": "Data/A5. Cost-Based Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Dirty Reads Non-Repeatable Reads"
+              "title": "A5. Cost-Based Optimization"
             }
           },
           {
-            "id": "9e016cdff90b8893",
+            "id": "6679cd7a76a7e268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/4. Phantom Read and Lost Update.md",
+                "file": "Data/A6. Bottom-Up and Top-Down.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Phantom Read and Lost Update"
-            }
-          },
-          {
-            "id": "0955f55fad06d056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/6. Transaction Isolation and Transaction Conflicts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Transaction Isolation and Transaction Conflicts"
-            }
-          },
-          {
-            "id": "f9001c32cb4f7919",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/4. Phantom Read and Lost Update.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Phantom Read and Lost Update"
-            }
-          },
-          {
-            "id": "db89aad3a9c5bda9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/7. Concurrency Control.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Concurrency Control"
-            }
-          },
-          {
-            "id": "a4605147f83519f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/A1. what is Cardinality and  Cardinality Estimation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A1. what is Cardinality and  Cardinality Estimation"
+              "title": "A6. Bottom-Up and Top-Down"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,10 +211,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4605147f83519f3",
+  "active": "6679cd7a76a7e268",
   "lastOpenFiles": [
+    "Data/A5. Cost-Based Optimization.md",
+    "Data/A6. Bottom-Up and Top-Down.md",
+    "Data/A4. Rule-based optimization.md",
+    "Data/A3. Plan Enumeration.md",
+    "Data/A1. Query Engine.md",
+    "Data/A2. SQL Query Optimizer.md",
+    "Pasted image 20250430133558.png",
     "DATA.md",
-    "Data/A1. what is Cardinality and  Cardinality Estimation.md",
     "Untitled",
     "Data/7. Concurrency Control.md",
     "Data/6. Transaction Isolation and Transaction Conflicts.md",
